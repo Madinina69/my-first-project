@@ -1,1 +1,1 @@
-# my-first-project
+Hello from my Mac terminal setup!"
